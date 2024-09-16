@@ -29,3 +29,7 @@ gloomhavensecretariat
 # System files
 .DS_Store
 Thumbs.db
+
+# Python
+venv
+__pycache__
